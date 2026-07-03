@@ -1,22 +1,37 @@
 # Expérience - Freelance webdesigner
 
-## Statut
+## Faits établis
 
-Expérience identifiée par son intitulé. Les clients, dates, projets et résultats restent à renseigner.
+- Intitulé : Webdesigner / intégrateur / créateur de contenus
+- Statut : freelance
+- Période : depuis 2007
 
-## Positionnement éditorial
+## Contexte
 
-Activité liée à la conception de supports web et à la mise en forme visuelle de contenus. Cette expérience peut soutenir un profil web, communication ou portfolio, à condition d'être reliée à des projets précis.
+Activité de conception web, d'intégration, de création de contenus et d'accompagnement de structures touristiques, associatives et entrepreneuriales.
 
-## Informations à compléter
+## Missions et responsabilités
 
-- nature des prestations ;
-- types de clients ou secteurs ;
-- outils utilisés ;
-- livrables produits ;
-- contraintes rencontrées ;
-- résultats observables ;
-- liens ou captures disponibles.
+- Conception et réalisation de sites web.
+- Intégration HTML/CSS.
+- Création et administration de sites WordPress.
+- UX/UI.
+- SEO.
+- Rédaction de contenus.
+- Design graphique.
+- Création de supports print et web.
+- Accompagnement de structures touristiques, associatives et entrepreneuriales.
+
+## Compétences mobilisées
+
+- Communication numérique.
+- Webdesign.
+- Intégration.
+- Création de contenus.
+- Design graphique.
+- SEO.
+- Relation client.
+- Conseil et accompagnement.
 
 ## Angles mobilisables
 
@@ -25,3 +40,15 @@ Activité liée à la conception de supports web et à la mise en forme visuelle
 - structuration de contenus ;
 - autonomie ;
 - relation client.
+
+## Formulations réutilisables
+
+- Webdesigner, intégrateur et créateur de contenus en freelance depuis 2007.
+- Conception de sites web, WordPress, HTML/CSS, UX/UI et SEO.
+- Rédaction de contenus et création de supports print/web.
+- Accompagnement de structures touristiques, associatives et entrepreneuriales.
+
+## Informations à compléter
+
+- Exemples de sites ou projets : [à compléter]
+- Clients citables : [à compléter]

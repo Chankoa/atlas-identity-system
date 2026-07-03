@@ -1,22 +1,25 @@
 # Expérience - Éducateur sportif
 
-## Statut
+## Faits établis
 
-Expérience identifiée par son intitulé. Les informations factuelles doivent être précisées avant publication.
+- Intitulé : Éducateur sportif escalade et canyoning
+- Période : depuis 1998
+- Territoire : Verdon
 
-## Positionnement éditorial
+## Contexte
 
-Cette expérience peut nourrir les dimensions d'accompagnement, d'encadrement, de pédagogie et de relation humaine.
+Expérience longue d'encadrement de groupes dans les activités outdoor, avec une dimension forte de pédagogie, de sécurité, d'accueil et d'adaptation aux publics.
 
-## Informations à compléter
+## Missions et responsabilités
 
-- cadre d'exercice ;
-- publics accompagnés ;
-- disciplines ou activités ;
-- responsabilités ;
-- compétences transférables ;
-- résultats ou retours ;
-- formations ou certifications associées.
+- Encadrement de groupes.
+- Pédagogie.
+- Sécurité.
+- Accueil.
+- Adaptation aux publics.
+- Expérience outdoor.
+- Tourisme.
+- Territoire du Verdon.
 
 ## Angles mobilisables
 
@@ -25,3 +28,23 @@ Cette expérience peut nourrir les dimensions d'accompagnement, d'encadrement, d
 - adaptation ;
 - organisation ;
 - relation aux publics.
+
+## Compétences transférables
+
+- Gestion d'un groupe.
+- Clarté des consignes.
+- Écoute et adaptation.
+- Sens des responsabilités.
+- Relation aux publics.
+- Culture du terrain.
+- Lien entre activité, territoire et expérience vécue.
+
+## Formulations réutilisables
+
+- Éducateur sportif escalade et canyoning depuis 1998.
+- Encadrement de groupes, pédagogie, sécurité, accueil et adaptation aux publics.
+- Expérience outdoor et touristique dans le territoire du Verdon.
+
+## Informations à compléter
+
+- Structures ou statuts d'exercice selon les périodes : [à compléter]

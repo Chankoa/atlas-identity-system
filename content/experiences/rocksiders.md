@@ -1,24 +1,52 @@
 # Expérience - Rocksiders
 
-## Statut
+## Faits établis
 
-Expérience identifiée dans le système. Les détails factuels restent à documenter avant toute utilisation publique.
+- Structure : ROCKSIDERS
+- Localisation / territoire : Verdon
+- Période : 2019-2025
+- Rôle : création et gestion d'une structure touristique d'activités de pleine nature.
+
+## Contexte
+
+ROCKSIDERS est une expérience centrale pour les profils tourisme, communication, gestion de projet, relation client et territoire. Elle associe création d'activité, communication, accueil, coordination et organisation opérationnelle.
+
+## Missions et responsabilités
+
+- Création et gestion de la structure.
+- Communication digitale.
+- Identité visuelle.
+- Site web.
+- Rédaction.
+- SEO.
+- Accueil clients.
+- Réservations.
+- Coordination d'équipe.
+- Planification.
+- Relation partenaires.
+- Commercialisation.
+- Gestion opérationnelle.
+- Organisation quotidienne.
+
+## Compétences mobilisées
+
+- Communication numérique.
+- Création de contenus.
+- Design graphique.
+- Web et SEO.
+- Relation client.
+- Gestion de projet.
+- Coordination.
+- Tourisme et territoire du Verdon.
+
+## Formulations réutilisables
+
+- Création et gestion d'une structure touristique d'activités de pleine nature dans le Verdon.
+- Communication digitale, identité visuelle, site web, rédaction et SEO.
+- Accueil clients, réservations, coordination d'équipe, planification et relation partenaires.
+- Commercialisation, gestion opérationnelle et organisation quotidienne.
 
 ## Informations à compléter
 
-- rôle exact ;
-- période ;
-- contexte de l'organisation ou du projet ;
-- missions ;
-- livrables produits ;
-- outils utilisés ;
-- résultats ou apprentissages ;
-- preuves disponibles.
-
-## Usage éditorial possible
-
-Cette entrée pourra être mobilisée si elle permet d'illustrer un lien avec la communication, la création de contenus, le web, la culture, l'accompagnement ou la relation avec des publics.
-
-## Règle
-
-Ne pas formuler cette expérience comme une réalisation complète tant que les missions et résultats n'ont pas été confirmés.
+- Statut juridique de la structure : [à compléter]
+- Liens ou exemples de supports : [à compléter]

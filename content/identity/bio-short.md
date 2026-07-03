@@ -1,13 +1,13 @@
 # Bio courte
 
-Profil professionnel à la croisée de la communication, de la culture, du web et de la transmission.
+Chandra Josephus est un profil hybride basé à Valensole, à la croisée de la communication numérique, de la création de contenus, du design graphique, du web et de la transmission.
 
-La ligne directrice : créer des liens entre les idées, les lieux et les personnes, en concevant des contenus clairs, utiles et adaptés aux publics.
+Son parcours relie création de sites, rédaction, identité visuelle, formation web, accueil des publics, relation client et gestion de projet, avec une expérience forte du territoire du Verdon.
 
 ## Variante très courte
 
-Communication, culture, web et transmission : une approche éditoriale pour rendre les projets plus lisibles et plus accessibles.
+Communication, contenus, design, web et transmission : une approche pour rendre les projets plus lisibles et créer des liens avec les publics.
 
-## Notes
+## Variante candidature
 
-Cette bio ne contient volontairement ni dates, ni intitulés détaillés, ni noms d'organisations autres que ceux déjà documentés ailleurs dans le système.
+Profil polyvalent en communication numérique, création de contenus, design graphique et web, avec une expérience de terrain en formation, accueil, relation client, tourisme et coordination.

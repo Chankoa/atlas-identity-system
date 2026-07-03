@@ -16,13 +16,24 @@ La direction doit évoquer le design éditorial culturel français, les catalogu
 - `design-system/grid.md`
 - `design-system/image-direction.md`
 
+## Procédure rapide
+
+1. Ouvrir Firefly.
+2. Coller le prompt principal ci-dessous.
+3. Coller le prompt négatif si l'interface propose un champ d'exclusion.
+4. Générer 4 à 8 pistes.
+5. Retenir uniquement les pistes sobres, lisibles, éditoriales et non corporate.
+6. Utiliser la piste retenue comme moodboard ou image d'ambiance, pas comme document final.
+
 ## Intention visuelle
 
 Une mise en page claire, respirante et culturelle, avec de grands espaces blancs, une typographie forte et une hiérarchie précise. Le rendu doit donner une impression de sérieux, d'attention aux publics et de sens éditorial.
 
+Le brief doit traduire l'esprit d'une scène nationale de territoire(s) : création, diffusion, spectacle vivant, musique, création sonore, audio-balades, festivals, publics et actions hors les murs.
+
 ## Mots-clés
 
-Design éditorial culturel français, catalogue d'exposition, programme de festival, communication culturelle, grands espaces blancs, typographie expressive, sobriété contemporaine, papier mat, structure claire, rythme visuel, marges généreuses, image et texte en dialogue.
+Design éditorial culturel français, catalogue d'exposition, programme de festival, spectacle vivant, scène nationale de territoire, communication culturelle, grands espaces blancs, typographie expressive, sobriété contemporaine, papier mat, structure claire, rythme visuel, marges généreuses, image et texte en dialogue, musique, création sonore, audio-balade, territoire, Verdon, publics, médiation.
 
 ## Palette de référence
 
@@ -53,7 +64,7 @@ Privilégier une ambiance de support culturel imprimé : papier, programme, carn
 
 ## Prompt principal
 
-Direction graphique pour une candidature de chargé de communication culturelle, inspirée du design éditorial culturel français, catalogues d'exposition et programmes de festivals, grands espaces blancs, typographie forte, mise en page sobre et contemporaine, hiérarchie claire, papier mat, palette noir doux fond clair bleu grisé vert grisé, communication culture territoire publics, rendu professionnel, élégant et non décoratif, sans logo existant, sans imitation d'identité réelle.
+Direction graphique pour une candidature de chargé de communication culturelle dans une scène nationale de territoire, inspirée du design éditorial culturel français, catalogues d'exposition et programmes de festivals, grands espaces blancs, typographie forte, mise en page sobre et contemporaine, hiérarchie claire, papier mat, palette noir doux fond clair bleu grisé vert grisé, communication culture territoire publics, spectacle vivant, musique, création sonore, audio-balade, Verdon, médiation, rendu professionnel, élégant et non décoratif, sans logo existant, sans imitation d'identité réelle.
 
 ## Prompt négatif
 

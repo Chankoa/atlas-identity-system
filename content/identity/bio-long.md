@@ -1,16 +1,24 @@
 # Bio longue
 
-Profil orienté communication, culture, web et transmission, avec une attention particulière portée à la clarté des messages, à la structuration des contenus et à la relation avec les publics.
+Chandra Josephus est un professionnel basé à Valensole, dans les Alpes-de-Haute-Provence. Son parcours associe communication numérique, création de contenus, design graphique, web, formation, relation avec les publics et gestion de projet.
 
-Le fil conducteur du parcours peut se résumer ainsi : créer des liens entre les idées, les lieux et les personnes. Cette approche permet de relier la conception de supports, la médiation des contenus, l'accompagnement des usages et la mise en forme d'une identité professionnelle cohérente.
+Depuis 2007, il exerce comme webdesigner, intégrateur et créateur de contenus en freelance. Cette activité l'amène à concevoir et réaliser des sites web, à travailler sur WordPress, HTML/CSS, UX/UI et SEO, à rédiger des contenus, à créer des supports print et web, et à accompagner des structures touristiques, associatives et entrepreneuriales.
 
-L'écriture doit rester factuelle et adaptable. Selon le contexte, cette bio peut insister davantage sur la communication culturelle, la conception web, la formation, le tourisme ou la relation client.
+Entre 2019 et 2025, il crée et gère ROCKSIDERS dans le Verdon, une structure touristique d'activités de pleine nature. Cette expérience réunit communication digitale, identité visuelle, site web, rédaction, SEO, accueil clients, réservations, coordination d'équipe, planification, relation partenaires, commercialisation et organisation quotidienne.
 
-## À compléter avec des faits vérifiés
+De 2016 à 2025, il intervient comme formateur web pour AKSIS et ADF Formation. Il anime des formations professionnelles autour des titres RNCP Webdesigner, Infographiste Metteur en Page, Développeur Web et Web Mobile. Il transmet HTML, CSS, WordPress, UX/UI, responsive design, CMS, SEO et outils d'IA générative, tout en concevant des supports de cours et en accompagnant les apprenants.
 
-- expériences datées ;
-- structures ou clients ;
-- projets réalisés ;
-- résultats mesurables ;
-- exemples de supports produits ;
-- formations confirmées.
+Son parcours est aussi marqué par une expérience longue d'éducateur sportif escalade et canyoning depuis 1998. Elle nourrit une pratique de l'encadrement, de la pédagogie, de la sécurité, de l'accueil et de l'adaptation aux publics, dans un contexte outdoor et touristique lié au territoire du Verdon.
+
+En 2026, une expérience en relation client et conseil clientèle complète ce parcours par la prise en charge d'appels, le traitement administratif et informatique, la satisfaction client, la gestion des priorités et la communication claire.
+
+Le fil conducteur de ce parcours est la capacité à créer des liens entre les idées, les lieux et les personnes : rendre un projet lisible, concevoir des supports utiles, transmettre des savoirs, organiser une activité et construire une relation de qualité avec les publics.
+
+## Angles de réutilisation
+
+- Communication culturelle et territoriale.
+- Communication numérique et création de contenus.
+- Web, WordPress, UX/UI et SEO.
+- Formation, médiation et transmission.
+- Tourisme, outdoor et territoire du Verdon.
+- Accueil, relation client et coordination.

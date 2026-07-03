@@ -17,12 +17,32 @@ Cette spécification ne crée pas de fichier `.indd`. Elle décrit les styles, l
 - `design-system/grid.md`
 - `design-system/editorial-principles.md`
 
+## Procédure rapide
+
+1. Créer un document A4 vertical pour le CV.
+2. Créer les styles de paragraphes avant d'importer le texte.
+3. Copier le contenu depuis `cv-culture.md` en conservant les blocs éditables.
+4. Appliquer les styles : nom, titre, coordonnées, rubrique, expérience, texte courant, liste compétences.
+5. Créer un second document A4 pour la lettre, ou une page séparée avec les mêmes styles.
+6. Exporter un PDF de relecture, corriger dans InDesign, puis exporter le PDF final.
+
 ## Format
 
 - CV : A4 vertical, une page.
-- Lettre : A4 vertical, une à deux pages selon le contenu final.
+- Lettre : A4 vertical, idéalement une page.
 - Marges généreuses pour renforcer l'approche éditoriale.
 - Grille simple : une colonne principale, avec possibilité d'une colonne courte pour les coordonnées ou repères.
+
+## Structure recommandée du CV
+
+- Bloc identité : nom, localisation, téléphone, email, portfolio si disponible.
+- Titre : Chargé de communication - Théâtre Durance.
+- Accroche courte.
+- Compétences clés en deux colonnes ou en liste dense.
+- Parcours sélectionné.
+- Culture personnelle et pratique professionnelle.
+- Formation et langues.
+- Objectif.
 
 ## Couleurs
 
@@ -62,6 +82,7 @@ Si les polices ne sont pas installées, utiliser des alternatives disponibles sa
 - Limiter les effets graphiques.
 - Ne pas multiplier les encadrés.
 - Maintenir une hiérarchie immédiate entre identité, compétences et parcours.
+- Donner une place forte au titre du poste et au lien territoire / publics / communication.
 - Garder les textes en blocs éditables.
 - Ne pas vectoriser les textes.
 
@@ -70,5 +91,11 @@ Si les polices ne sont pas installées, utiliser des alternatives disponibles sa
 - Exporter après relecture complète.
 - Vérifier les liens et coordonnées.
 - Vérifier que toutes les mentions `[à compléter]` ont été traitées ou volontairement conservées.
+- Vérifier que la lettre est adressée à Élodie Presles et que l'email d'envoi est `administration@theatredurance.fr`.
 - Exporter en PDF standard pour envoi numérique.
 - Conserver le fichier InDesign éditable séparément du PDF final.
+
+## Noms d'export recommandés
+
+- `Chandra-Josephus-CV-Theatre-Durance.pdf`
+- `Chandra-Josephus-Lettre-Theatre-Durance.pdf`

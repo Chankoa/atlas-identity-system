@@ -1,19 +1,35 @@
 # Formations
 
-## Statut
+## Formations confirmées
 
-Les formations ne sont pas encore documentées dans cette version du système.
+### Certification Webdesigner
 
-## Informations à renseigner
+- Organisme : ADF Formation Manosque
+- Année : 2013
 
-- intitulé de la formation ;
-- établissement ou organisme ;
-- période ;
-- diplôme, certification ou niveau ;
-- compétences acquises ;
-- projets réalisés ;
-- liens avec les profils visés.
+### Diplôme d'État Éducateur Sportif escalade / canyoning
 
-## Règle d'usage
+- Organisme : CREPS Montpellier
+- Année : [à compléter]
 
-Ne pas ajouter de diplôme, certification ou niveau tant qu'il n'a pas été confirmé.
+### Baccalauréat Sciences Économiques et Sociales
+
+- Établissement : [à compléter]
+- Année : [à compléter]
+
+## Langues
+
+- Français : langue maternelle
+- Anglais : courant
+- Espagnol : notions
+
+## Usages éditoriaux
+
+- La certification Webdesigner soutient les profils web, communication numérique et création de contenus.
+- Le Diplôme d'État Éducateur Sportif escalade / canyoning soutient les profils tourisme, encadrement, pédagogie, sécurité et relation aux publics.
+- Le baccalauréat Sciences Économiques et Sociales peut soutenir une présentation généraliste du parcours.
+
+## Informations à compléter
+
+- Année du Diplôme d'État Éducateur Sportif : [à compléter]
+- Établissement et année du baccalauréat : [à compléter]
