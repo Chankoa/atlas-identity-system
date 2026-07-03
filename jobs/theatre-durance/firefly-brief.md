@@ -6,6 +6,16 @@ Créer une direction graphique pour une candidature culturelle : CV, lettre et �
 
 La direction doit évoquer le design éditorial culturel français, les catalogues d'exposition, les programmes de festivals et les supports imprimés sobres, sans plagier une identité existante ni reproduire celle du Théâtre Durance.
 
+## Sources à consulter avant génération
+
+- `jobs/theatre-durance/analysis.md`
+- `jobs/theatre-durance/cv-culture.md`
+- `jobs/theatre-durance/lettre-motivation.md`
+- `design-system/colors.md`
+- `design-system/typography.md`
+- `design-system/grid.md`
+- `design-system/image-direction.md`
+
 ## Intention visuelle
 
 Une mise en page claire, respirante et culturelle, avec de grands espaces blancs, une typographie forte et une hiérarchie précise. Le rendu doit donner une impression de sérieux, d'attention aux publics et de sens éditorial.
@@ -48,3 +58,22 @@ Direction graphique pour une candidature de chargé de communication culturelle,
 ## Prompt négatif
 
 Ne pas copier une identité visuelle existante, ne pas utiliser le logo du Théâtre Durance, ne pas produire un visuel corporate, ne pas créer un portrait fictif, ne pas utiliser d'effets néon, de dégradés agressifs, de pictogrammes génériques excessifs ou de mise en page trop chargée.
+
+## Sortie attendue
+
+Firefly doit aider à choisir une ambiance visuelle, pas à produire le document final.
+
+Sorties utiles :
+
+- moodboard d'intention ;
+- piste de texture ou d'image d'ambiance ;
+- idée de rythme graphique ;
+- références de composition à traduire ensuite dans Adobe Express ou InDesign.
+
+## Transmission vers la mise en page
+
+Les choix retenus doivent être reportés dans :
+
+- `jobs/theatre-durance/adobe-express-brief.md` pour une version rapide éditable ;
+- `jobs/theatre-durance/indesign-spec.md` pour une version éditoriale avancée ;
+- `jobs/theatre-durance/rendering-workflow.md` pour garder la trace du processus.
