@@ -1,2 +1,0 @@
-- Communiquer, c'est créer les conditions d'une rencontre.
-- Entre communication, création et transmission.
